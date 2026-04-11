@@ -43,4 +43,4 @@ modals, rating system, and pagination. Team project | Scrum Master.
 ---
 
 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/ihor-tomkiv/) | [Telegram](@Tomkiw) | [Email](@igortomkiw3@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ihor-tomkiv/) | [Telegram](https://t.me/Tomkiw) | [Email](mailto:igortomkiw3@gmail.com)
