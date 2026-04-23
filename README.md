@@ -26,9 +26,9 @@ Frontend developer with hands-on experience in JavaScript, React, and Next.js, c
 
 - **[Project-X](https://github.com/romanhavryliuk/project-x)** – a web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
-- **[Team-Friday-13](https://github.com/Tomkiw/team-friday-13)** – Responsive landing page for an eco bag brand with product presentation and customer interaction sections.
-
 - **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – Velvety Beauty is a stylish and modern website designed for the beauty industry. The project aims to showcase professionalism, provide an easy-to-navigate service list, and ensure seamless communication with clients.
+
+- **[Team-Friday-13](https://github.com/Tomkiw/team-friday-13)** – Responsive landing page for an eco bag brand with product presentation and customer interaction sections.
 
 ---
 
