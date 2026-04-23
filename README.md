@@ -24,11 +24,11 @@ Frontend developer with hands-on experience in JavaScript, React, and Next.js, c
 
 ## 💻 Featured Projects
 
-- **[Project-X](https://romanhavryliuk.github.io/project-x/)** – a web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
+- **[Project-X](https://github.com/romanhavryliuk/project-x)** – a web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
 - **[Team-Friday-13](https://github.com/Tomkiw/team-friday-13)** – short description. Role.
 
-- **[Velvety-Beauty](https://github.com/Tomkiw/velvety-beauty)** – short description. Role.
+- **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – short description. Role.
 
 ---
 
