@@ -24,11 +24,11 @@ Frontend developer with hands-on experience in JavaScript, React, and Next.js, c
 
 ## 💻 Featured Projects
 
+- **Culinary Recipes Platform** ([Frontend](https://github.com/Tomkiw/next_team_project_front_end) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+
 - **[Project-X](https://github.com/romanhavryliuk/project-x)** – a web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
 - **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – Velvety Beauty is a stylish and modern website designed for the beauty industry. The project aims to showcase professionalism, provide an easy-to-navigate service list, and ensure seamless communication with clients.
-
-- **[Team-Friday-13](https://github.com/Tomkiw/team-friday-13)** – Responsive landing page for an eco bag brand with product presentation and customer interaction sections.
 
 ---
 
