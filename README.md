@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ihor Tomkiv
 
-**Junior Frontend Developer | React | Next.js | Aspiring Full Stack**
+**Junior Full Stack Developer | React | Next.js | Node.js**
 
-Frontend developer with hands-on experience in JavaScript, React, and Next.js, currently expanding into Full Stack development with Node.js. Experienced in building responsive web applications, working with REST APIs, and dynamic UI rendering. Served as Team Lead and Scrum Master in team projects. Strong background in team management and responsibility.
+Full Stack developer with hands-on experience in JavaScript, React, Next.js, and Node.js. Experienced in building responsive web applications, REST APIs, dynamic UI rendering, and server-side development. Served as Team Lead and Scrum Master in team projects. Strong background in team management and responsibility.
 
 ---
 
@@ -24,11 +24,11 @@ Frontend developer with hands-on experience in JavaScript, React, and Next.js, c
 
 ## 💻 Featured Projects
 
-- **Culinary Recipes Platform** ([Frontend](https://github.com/Tomkiw/next_team_project_front_end) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+- **[Culinary Recipes Platform](https://github.com/Tomkiw/next_team_project_front_end)** ([Frontend](https://github.com/Tomkiw/next_team_project_front_end) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
 
-- **[Project-X](https://github.com/romanhavryliuk/project-x)** – a web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
+- **[Project-X](https://github.com/romanhavryliuk/project-x)** – Web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
-- **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – Velvety Beauty is a stylish and modern website designed for the beauty industry. The project aims to showcase professionalism, provide an easy-to-navigate service list, and ensure seamless communication with clients.
+- **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – Stylish and modern website designed for the beauty industry, showcasing services, ensuring seamless client communication, and reflecting a professional brand identity.
 
 ---
 
