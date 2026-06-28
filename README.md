@@ -24,7 +24,7 @@ Full Stack developer with hands-on experience in JavaScript, React, Next.js, and
 
 ## 💻 Featured Projects
 
-- **[Culinary Recipes Platform](https://github.com/Tomkiw/next_team_project_front_end)** ([Frontend](https://github.com/Tomkiw/next_team_project_front_end) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+- **[Culinary Recipes Platform](https://github.com/HalynaChuvaieva/frontend-tasteorama)** ([Frontend](https://github.com/HalynaChuvaieva/backend-tasteorama) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
 
 - **[Project-X](https://github.com/romanhavryliuk/project-x)** – Web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
