@@ -24,7 +24,9 @@ Full Stack developer with hands-on experience in JavaScript, React, Next.js, and
 
 ## 💻 Featured Projects
 
-- **[Culinary Recipes Platform](https://github.com/HalynaChuvaieva/frontend-tasteorama)** ([Frontend](https://github.com/HalynaChuvaieva/backend-tasteorama) · [Backend](https://github.com/Tomkiw/node_team_project_backend)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+- **[Culinary Recipes Platform](https://recipool.vercel.app/)** ([Frontend](https://github.com/Tomkiw/recipool-front) · [Backend](https://github.com/Tomkiw/recipool-back)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+
+- **[Pixa Search](https://github.com/romanhavryliuk/pixa-search)** ([Live demo](https://pixa-search-ruddy.vercel.app/)) – Search engine for free images and videos powered by the Pixabay API. Built with Next.js App Router and TypeScript: server-side API route that keeps the API key off the client, TanStack Query for data fetching and caching, media type filtering, pagination, animated UI, and SEO support via dynamic sitemap and robots.
 
 - **[Project-X](https://github.com/romanhavryliuk/project-x)** – Web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
