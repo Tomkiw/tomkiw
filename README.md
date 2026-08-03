@@ -24,13 +24,13 @@ Full Stack developer with hands-on experience in JavaScript, React, Next.js, and
 
 ## 💻 Featured Projects
 
-- **[Culinary Recipes Platform](https://recipool.vercel.app/)** ([Frontend](https://github.com/Tomkiw/recipool-front) · [Backend](https://github.com/Tomkiw/recipool-back)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
+- **[Culinary Recipes Platform](https://github.com/Tomkiw/recipool-front)** ([Live demo](https://recipool.vercel.app/) · [Frontend](https://github.com/Tomkiw/recipool-front) · [Backend](https://github.com/Tomkiw/recipool-back)) – Full-stack web application for discovering, saving, and publishing culinary recipes. Features cookie-based session authentication, a personal user dashboard, advanced recipe filtering and search, and a custom BFF layer built with Next.js Route Handlers that proxies and adapts requests to the external REST API. Team project | Team Lead.
 
 - **[Pixa Search](https://github.com/romanhavryliuk/pixa-search)** ([Live demo](https://pixa-search-ruddy.vercel.app/)) – Search engine for free images and videos powered by the Pixabay API. Built with Next.js App Router and TypeScript: server-side API route that keeps the API key off the client, TanStack Query for data fetching and caching, media type filtering, pagination, animated UI, and SEO support via dynamic sitemap and robots.
 
-- **[Project-X](https://github.com/romanhavryliuk/project-x)** – Web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
+- **[Project-X](https://github.com/romanhavryliuk/project-x)** ([Live demo](https://romanhavryliuk.github.io/project-x/)) – Web platform for presenting artists' portfolios with dynamic JS rendering, modals, rating system, and pagination. Team project | Scrum Master.
 
-- **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** – Stylish and modern website designed for the beauty industry, showcasing services, ensuring seamless client communication, and reflecting a professional brand identity.
+- **[Velvety-Beauty](https://github.com/romanhavryliuk/velvety-beauty)** ([Live demo](https://romanhavryliuk.github.io/velvety-beauty/)) – Stylish and modern website designed for the beauty industry, showcasing services, ensuring seamless client communication, and reflecting a professional brand identity.
 
 ---
 
